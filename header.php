@@ -3,7 +3,7 @@
 
 <head>
 
-  <meta http-equiv="content-type" content="text/html; charset=<?php bloginfo( 'charset' )?>" />
+  <meta http-equiv="content-type" content="text/html" charset="<?php bloginfo( 'charset' );?>"/>
 
   <!-- Stylesheets
 	============================================= -->
